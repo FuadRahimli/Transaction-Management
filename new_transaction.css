@@ -1,0 +1,64 @@
+input[type=submit] {
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin-left: 105px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+form {
+  border-radius: 10px;
+  width: 30%;
+  background-color: white ;
+  padding: 10px;
+  margin: auto;
+  opacity: 0.9;
+}
+
+input[type=Number], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#date{
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+strong[type=date]{
+   font-size: 20px;
+}
+strong[type=payment]{
+  font-size: 20px;
+}
+strong[type=category]{
+  font-size: 20px;
+}
+strong[type=amount]{
+  font-size: 20px;
+}
+h3{
+  margin-left: 570px;
+}
+.transactionsimage {
+  background-image: url("/UFAZL3S1/Homework/transactions.png");
+  background-color: #cccccc;
+  height: 655px;
+  width: 101%;
+  margin-top: -19px;
+  margin-left: -6px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
